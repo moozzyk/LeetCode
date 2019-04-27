@@ -16,8 +16,7 @@ Given the initial state of the prison, return the state of the prison after N da
 ### Example 1:
 **Input:** cells = `[0,1,0,1,1,0,0,1]`, N = `7`  
 **Output:** `[0,0,1,1,0,0,0,0]`  
-
-Explanation:  
+**Explanation:**
 The following table summarizes the state of the prison on each day:
 
 Day 0: `[0, 1, 0, 1, 1, 0, 0, 1]`  
